@@ -1,0 +1,22 @@
+current directory: /Users/yutak.yamaki/graphql-todo-app/vendor/ruby/3.3.0/gems/bootsnap-1.17.1/ext/bootsnap
+/Users/yutak.yamaki/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yutak.yamaki/graphql-todo-app/vendor/ruby/3.3.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240122-59881-9rolrk sitelibdir\=./.gem.20240122-59881-9rolrk clean
+
+current directory: /Users/yutak.yamaki/graphql-todo-app/vendor/ruby/3.3.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240122-59881-9rolrk sitelibdir\=./.gem.20240122-59881-9rolrk
+compiling bootsnap.c
+bootsnap.c:822:10: warning: unused variable 'contents' [-Wunused-variable]
+  char * contents = NULL;
+         ^
+1 warning generated.
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/yutak.yamaki/graphql-todo-app/vendor/ruby/3.3.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240122-59881-9rolrk sitelibdir\=./.gem.20240122-59881-9rolrk install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20240122-59881-9rolrk/bootsnap
+
+current directory: /Users/yutak.yamaki/graphql-todo-app/vendor/ruby/3.3.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240122-59881-9rolrk sitelibdir\=./.gem.20240122-59881-9rolrk clean
