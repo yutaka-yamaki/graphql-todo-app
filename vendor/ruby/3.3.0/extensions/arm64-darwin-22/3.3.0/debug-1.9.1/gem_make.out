@@ -1,0 +1,19 @@
+current directory: /Users/yutak.yamaki/graphql-todo-app/vendor/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+/Users/yutak.yamaki/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yutak.yamaki/graphql-todo-app/vendor/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240122-59881-4z0fzo sitelibdir\=./.gem.20240122-59881-4z0fzo clean
+
+current directory: /Users/yutak.yamaki/graphql-todo-app/vendor/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240122-59881-4z0fzo sitelibdir\=./.gem.20240122-59881-4z0fzo
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/yutak.yamaki/graphql-todo-app/vendor/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240122-59881-4z0fzo sitelibdir\=./.gem.20240122-59881-4z0fzo install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20240122-59881-4z0fzo/debug
+
+current directory: /Users/yutak.yamaki/graphql-todo-app/vendor/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240122-59881-4z0fzo sitelibdir\=./.gem.20240122-59881-4z0fzo clean
