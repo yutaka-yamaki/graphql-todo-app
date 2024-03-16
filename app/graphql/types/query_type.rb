@@ -26,7 +26,7 @@ module Types
       Task.all
     end
 
-    field :task,  Types::TaskType, null: false do
+    field :task, Types::TaskType, null: false, description: 'タスクをidごとに取得する' do
       argument :id, Int, required: false
     end
     def task(id:)
