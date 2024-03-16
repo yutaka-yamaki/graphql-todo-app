@@ -17,7 +17,7 @@ Rails,Graphqlで作成したTodoアプリケーション
 ### Ruby version
 3.3.0
 ### rails version
-7;1;2
+7.1.2
 ### tables
 - Tasks: has_many
 - Labels: belongs_to
