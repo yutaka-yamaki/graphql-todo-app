@@ -23,4 +23,11 @@ Rails,Graphqlで作成したTodoアプリケーション
 - Labels: belongs_to
 
 ## 機能
-CRUD
+Query
+
+<img width="1499" alt="スクリーンショット 2024-03-28 11 37 31" src="https://github.com/yutaka-yamaki/graphql-todo-app/assets/102955847/5018588a-d9ec-436c-a100-1c9f97adbb1d">
+
+Mutation
+
+<img width="753" alt="スクリーンショット 2024-03-28 11 35 50" src="https://github.com/yutaka-yamaki/graphql-todo-app/assets/102955847/b84b3b5e-959b-4fd4-90c9-d371c873aa24">
+
